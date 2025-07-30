@@ -1,2 +1,2 @@
 # speechrecognization
-Ido this project as my college assignment.
+I do this project as my college assignment.
